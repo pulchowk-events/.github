@@ -157,7 +157,7 @@ Across both repositories.
 ## Community
 
 - **Discord:** [discord.gg/cQ5gxusATk](https://discord.gg/cQ5gxusATk) — where the bot posts events and jobs, and where the community discusses them
-- **Website:** [pulchowk.events](https://pulchowk.events)
+- **Website:** [pulchowkevents.netlify.app](https://pulchowkevents.netlify.app)
 
 ## Contributing
 
